@@ -1,1 +1,1 @@
-0x00. Pascal's Triangle
+# The pascals triangle in python.
